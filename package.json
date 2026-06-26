@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-imdb",
+  "version": "0.1.0",
+  "description": "IMDB MCP — title metadata, ratings, episodes, and crew from IMDB's",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "imdb"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-imdb"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
