@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/imdb",
   "title": "Imdb",
   "description": "IMDB MCP — title metadata, ratings, episodes, and crew from IMDB's",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/imdb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-imdb",
