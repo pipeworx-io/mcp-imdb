@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-imdb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "IMDB MCP — title metadata, ratings, episodes, and crew from IMDB's",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-e3f3633076a91af762543c9902c5b1209f6fd5d7f799540d23f29356b9d4ca47",
-    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
+    "sourceHash": "v1-394f08aff29b9ee719494073bbce9dc26fc5c0283f3c8ecd04362318a80082a1",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
