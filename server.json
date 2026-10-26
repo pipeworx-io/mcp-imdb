@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/imdb",
   "title": "Imdb",
-  "description": "IMDB MCP — title metadata, ratings, episodes, and crew from IMDB's",
-  "version": "0.1.2",
+  "description": "IMDB MCP — title metadata, ratings, episodes, and crew from IMDB's official non-commercial bulk…",
+  "version": "0.1.3",
   "websiteUrl": "https://pipeworx.io/packs/imdb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-imdb",
